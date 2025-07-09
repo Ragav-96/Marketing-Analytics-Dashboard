@@ -1,3 +1,3 @@
 # Marketing-Analytics-Dashboard
-![Campaign Budget Optimizer](./Dashboard.png)
+![Campaign Budget Optimizer](./DashBoard.png)
 
